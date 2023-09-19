@@ -8,3 +8,5 @@ The database will contain two datasets: the first will trace the introduction an
 
 # Instructions 
 
+1. Tasks will be assigned as issues. You should receive a notification when an issue is assigned to you.
+2. Each member of the team has a designated folder. Please add your work to these folders, unless it is a document on which we are all working together.
